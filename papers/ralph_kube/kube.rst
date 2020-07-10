@@ -838,7 +838,9 @@ References
 
 .. [iperf] ESnet / Lawrence Berkeley National Laboratory (2014, July 7) iPerf - The ultimate speed test tool for TCP, UDP and SCTP. https://iperf.fr
 
-.. [adios] Oak Ridge National Laboratory (2018, April 5) ADIOS 2: The Adaptable Input/Output System version 2. Retrieved from https://adios2.readthedocs.io/en/latest/index.html
+.. [adios] W.F. Godoy, N. Podhorszki, R. Want et al. *ADIOS 2: The Adaptable Input Output System. A framework for high-performance datam anagement*
+           SoftwareX **12** 100561 (2020)
+           https://doi.org/10.1016/j.softx.2020.100561
 
 .. [PEP3148] B. Quinlan *PEP 3148 futures - execute computations asynchronously* 
              2009
